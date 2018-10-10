@@ -1,6 +1,5 @@
 # image2htm 
-## A Python 3 script which creates an HTML document for a directory of images
-
+## Listing image files with Python 3
 I keep it in my home directory and from any directory (MacOS) I can run it via the command:
 
     ~/image2htm.py
