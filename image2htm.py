@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# image2htm.py - Copyright 2018 by Jim Lawless
+# image2htm.py - Copyright 2018 by James K. Lawless
 # MIT/X11 License
 # See https://jiml.us/license2018.htm
 
